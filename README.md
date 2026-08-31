@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br><br>- 🎓 I'm currently a **2nd year student** at **Inspiria Knowledge Campus**, pursuing a **B.Sc in IT (AI)**<br>- 🎮 Passionate about **Game Development** and always exploring new ways to bring ideas to life through code<br>- 💻 Languages I know: **HTML**, **JavaScript**, **Python**<br>- 📱 Currently learning **App Development**<br>- ☁️ Have foundational knowledge of **Cloud Computing** — completed the **Azure Cloud Computing course by Microsoft**<br>- 🌱 Always curious to learn new technologies and improve my skills<br>- 💬 Ask me about game dev, Python, or JS!<br>- 📫 Feel free to reach out — always open to collaborate on interesting projects
 
 
