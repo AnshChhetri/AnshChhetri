@@ -1,5 +1,5 @@
 #  About Me:
-<br><br>- 🎓 I'm currently a **2nd year student** at **Inspiria Knowledge Campus**, pursuing a **B.Sc in IT (AI)**<br>- 🎮 Passionate about **Game Development** and always exploring new ways to
+<br><br>- 🎓 I'm currently a **2nd year student** at **Inspiria Knowledge Campus**, pursuing a **B.Sc in IT (AI)**<br>- 🎮 Passionate about **Game Development** and always exploring new ways to improve my skills
 
 
 ## 🌐 Socials:
